@@ -1,0 +1,11 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+  background-color:brown;
+  background-image: url(logo.svg);
+}
+
+.timer-container {
+  margin-top: 20px;
+}
